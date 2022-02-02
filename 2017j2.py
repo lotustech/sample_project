@@ -1,4 +1,4 @@
-#2017j2
+# junior 2 2017
 
 n = int(input())
 k = int(input())
